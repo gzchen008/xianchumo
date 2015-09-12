@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+.errorMsg{
+	color: red;
+	font-size: 12px;
+}
+.visiable{
+	display: block;
+}
